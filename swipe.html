@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Кототіндер - Перегляд анкет</title>
+</head>
+<body>
+    <header>
+        <h1>Перегляд анкет</h1>
+        <button onclick="goHome()">На головну</button>
+    </header>
+
+    <div id="profile-card">
+        <img id="profile-image" src="" width="300" height="300">
+        <h2 id="profile-name"></h2>
+        <p id="profile-age"></p>
+        <p id="profile-description"></p>
+        <div>
+            <button onclick="likeProfile()"> Сподобалось</button>
+            <button onclick="dislikeProfile()"> Не сподобалось</button>
+        </div>
+    </div>
+
+    <script src="profile.js"></script>
+</body>
+</html>
