@@ -6,19 +6,19 @@ const DEFAULT_PROFILES = [
         name: "Мурчик",
         age: "2 роки",
         description: "Ласкавий та грайливий кіт, обожнює гратися з м'ячиком",
-        image: "https://placekitten.com/400/400"
+        image: "https://doctor-veterinar.ru/media/k2/items/cache/675d28c04794e3c683f4419536c4c15f_XL.jpg"
     },
     {
         name: "Барсик", 
         age: "3 роки",
         description: "Спокійний та розсудливий, любить спати на сонечку",
-        image: "https://placekitten.com/401/401"
+        image: "https://img05.rl0.ru/afisha/e1200x800i/daily.afisha.ru/uploads/images/6/9f/69f86e59a86e8162aea80769f971435a.jpg"
     },
     {
         name: "Сніжинка",
         age: "1 рік",
         description: "Енергійна та цікава, завжди готова до пригод",
-        image: "https://placekitten.com/402/402"
+        image: "https://s13.stc.yc.kpcdn.net/share/i/instagram/B44solahwlo/wr-1280.webp"
     }
 ];
 
